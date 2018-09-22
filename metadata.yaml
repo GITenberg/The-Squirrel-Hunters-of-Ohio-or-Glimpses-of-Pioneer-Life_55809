@@ -1,11 +1,16 @@
 _repo: The-Squirrel-Hunters-of-Ohio-or-Glimpses-of-Pioneer-Life_55809
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55809-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Jones, N. E.
     gutenberg_agent_id: '48530'
     url: http://www.gutenberg.org/2009/agents/48530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55809#The-Squirrel-Hunters-of-Ohio-or-Glimpses-of-Pioneer-Life
 gutenberg_issued: '2017-10-25'
 gutenberg_type: Text
 identifiers:
